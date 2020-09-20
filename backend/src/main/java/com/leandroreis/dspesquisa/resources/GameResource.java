@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.leandroreis.dspesquisa.dto.GameDTO;
-import com.leandroreis.dspesquisa.entities.Game;
 import com.leandroreis.dspesquisa.services.GameService;
 
 @RestController
